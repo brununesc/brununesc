@@ -2,7 +2,7 @@ Olá! Eu sou a Bruna :)
 
 - 📚 Atualmente estou aprendendo javascript, PHP e git
 - 👩🏻‍💼 Estou tentando encontrar o melhor de mim (tá difícil kk)
-- ⚡ Sou carioca, flamenguista e amo Justin Bieber <3
+- ⚡ Sou carioca, flamenguista e amo Justin Bieber 💏
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
